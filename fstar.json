@@ -1,0 +1,14 @@
+{
+    "homepage": "https://github.com/FStarLang/FStar",
+    "description": "A Proof-oriented Programming Language",
+    "license": "Apache-2.0 License",
+    "version": "2022.01.01",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/FStarLang/FStar/releases/download/v2022.01.01/fstar_2022.01.01_Windows_x64.zip",
+            "hash": "85A50613D4A20343D187E2E7AB163D4B5C2489F5E38FD3936C60B2F1DB89CA13",
+            "extract_dir": "fstar"
+        }
+    },
+    "bin": "bin\\fstar.exe"
+}
